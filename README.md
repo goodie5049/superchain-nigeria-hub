@@ -3,7 +3,7 @@
 
 This hub is a streamlined technical resource designed to reduce onboarding friction for developers in emerging markets. We focus on high-utility integrations for the **Base Smart Wallet** and **Gasless UX**.
 
-[🚀 View Live Documentation](https://your-github-username.github.io/base-mainnet-docs/)
+[View Live Documentation](https://goodie5049.github.io/base-mainnet-docs/)
 
 ### 🛠 Core Focus
 * **Smart Wallet Adoption:** Moving beyond seed phrases with Passkeys.
